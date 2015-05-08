@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DroidGraphics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="photo_title">Light Beam</string>
+    <string name="photo_info">Antelope Canyon, Page, Arizona</string>
+</resources>

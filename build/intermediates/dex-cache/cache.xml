@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/juude/git/DroidGraphics/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/juude/git/DroidGraphics/app/build/intermediates/pre-dexed/debug/classes-a73b9619c1505fe0335af65f065f6f243b7a43f2.jar" />
+    </item>
+    <item
+        jar="/home/juude/prog/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/juude/git/DroidGraphics/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-0a35253e95c9d78b7d4e4277e74d3e4ed648aed7.jar" />
+    </item>
+    <item
+        jar="/home/juude/git/DroidGraphics/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.9.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="/home/juude/git/DroidGraphics/app/build/intermediates/pre-dexed/debug/classes-5d4c67120e68fc783c7c8fc7bb9dd9a86229393f.jar" />
+    </item>
+    <item
+        jar="/home/juude/git/DroidGraphics/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/juude/git/DroidGraphics/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-be0c669d84e34b5a559f74ccf863543c2eab486b.jar" />
+    </item>
+
+</items>
