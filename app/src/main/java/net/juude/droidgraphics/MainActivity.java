@@ -13,6 +13,7 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import net.juude.droidgraphics.spotlight.RoundedViewGroupFragment;
 import net.juude.droidgraphics.spotlight.SpotlightFragment;
 
 import java.util.HashMap;
@@ -31,7 +32,8 @@ public class MainActivity extends Activity {
         sFragmentList = new Class<?>[] {
                 GraphicsFragment.class,
                 SpotlightFragment.class,
-                EditFragment.class
+                EditFragment.class,
+                RoundedViewGroupFragment.class
         };
     }
 

@@ -39,25 +39,19 @@ MERGED from com.getbase:floatingactionbutton:1.9.0:12:5
 		ADDED from AndroidManifest.xml:15:9
 	android:hardwareAccelerated
 		ADDED from AndroidManifest.xml:16:9
-activity#net.juude.droidgraphics.spotlight.SpotlightActivity
-ADDED from AndroidManifest.xml:17:9
+activity#net.juude.droidgraphics.MainActivity
+ADDED from AndroidManifest.xml:18:9
 	android:label
+		ADDED from AndroidManifest.xml:20:13
+	android:name
 		ADDED from AndroidManifest.xml:19:13
-	android:name
-		ADDED from AndroidManifest.xml:18:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:20:13
+ADDED from AndroidManifest.xml:21:13
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:21:17
+ADDED from AndroidManifest.xml:22:17
 	android:name
-		ADDED from AndroidManifest.xml:21:25
+		ADDED from AndroidManifest.xml:22:25
 category#android.intent.category.LAUNCHER
 ADDED from AndroidManifest.xml:23:17
 	android:name
 		ADDED from AndroidManifest.xml:23:27
-activity#net.juude.droidgraphics.MainActivity
-ADDED from AndroidManifest.xml:27:9
-	android:label
-		ADDED from AndroidManifest.xml:29:13
-	android:name
-		ADDED from AndroidManifest.xml:28:13
